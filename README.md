@@ -1,2 +1,2 @@
-# PrepCourse-Henry
-Este es un repositorio de prueba del modulo2 del prepcourse de henry
+Boris Almada 
+Este es un proyecto es una prueba para clonarlo
